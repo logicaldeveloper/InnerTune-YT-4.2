@@ -23,10 +23,10 @@ android {
     buildToolsVersion = "35.0.0"
     defaultConfig {
         applicationId = "com.zionhuang.music"
-        minSdk = 24
-        targetSdk = 35
-        versionCode = 26
-        versionName = "0.5.10"
+        minSdk = 17
+        targetSdk = 30
+        versionCode = 1
+        versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
